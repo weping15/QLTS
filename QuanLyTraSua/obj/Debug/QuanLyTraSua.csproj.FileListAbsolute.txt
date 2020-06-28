@@ -1,0 +1,38 @@
+D:\new\C#\QuanLyBanTraSua\Visual\QuanLyTraSua\QuanLyTraSua\bin\Debug\QuanLyTraSua.exe.config
+D:\Download and setup\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\bin\Debug\QuanLyTraSua.exe.config
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\bin\Debug\QuanLyTraSua.exe.config
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\bin\Debug\QuanLyTraSua.exe
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\bin\Debug\QuanLyTraSua.pdb
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.Form1.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmDMChatLieu.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmDMHang.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmDMKhachHang.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmDMNhanVien.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmHoaDonBanHang.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.Properties.Resources.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.csproj.GenerateResource.Cache
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.exe
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.pdb
+D:\Download and setup\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.exe
+D:\Download and setup\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.pdb
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.csproj.ResolveComReference.cache
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmTimKiemHoaDon.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.FrmTimKiemHang.resources
+D:\QLTS\QuanLyTraSua\QuanLyTraSua\QuanLyTraSua\obj\Debug\QuanLyTraSua.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\bin\Debug\QuanLyTraSua.exe.config
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.exe
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.pdb
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\bin\Debug\QuanLyTraSua.exe
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\bin\Debug\QuanLyTraSua.pdb
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.Form1.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.FrmTimKiemHang.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmTimKiemHoaDon.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmDMChatLieu.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmDMHang.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmDMKhachHang.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmDMNhanVien.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.frmHoaDonBanHang.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLTS\QuanLyTraSua\obj\Debug\QuanLyTraSua.csproj.GenerateResource.Cache
